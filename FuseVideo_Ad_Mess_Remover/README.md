@@ -2,6 +2,8 @@
 
 This script is a UserScript extension designed to enhance the user experience on www.animecat.net pages by removing messages blocking video playback due to the use of an ad-blocker on the fusevideo.io player.
 
+<img src="src/preview.png">
+
 <h3>Features ⚙</h3>
 - Removes messages that block video playback when an ad-blocker is detected on the fusevideo.io player.
 - Works automatically upon page load with a slight delay to ensure the messages have been loaded.
