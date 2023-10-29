@@ -1,4 +1,4 @@
-<h1>FuseVideo Ad-blocker Message Remover 📁</h1>
+<h1>FuseVideo Ad Mess Remover 📁</h1>
 
 This script is a UserScript extension designed to enhance the user experience on www.animecat.net pages by removing messages blocking video playback due to the use of an ad-blocker on the fusevideo.io player.
 
