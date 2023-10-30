@@ -10,10 +10,13 @@ This script is a UserScript extension designed to enhance the user experience on
 
 
 <h3>Usage 🚀</h3>
-1. Make sure you have installed a user script manager extension like Tampermonkey.
-2. Copy the script code and create a new user script within your extension.
-3. Go to any www.animecat.net page or www.neko-sama.fr page where the fusevideo.io player is used.
-4. The messages blocking video playback due to the use of an ad-blocker will be automatically removed.
+
+- Make sure you have installed a user script manager extension like Tampermonkey.<br>
+- Copy the script code and create a new user script in your extension, or install the script via this **[Link](https://greasyfork.org/en/scripts/478505-fusevideo-ad-mess-remover)**.<br>
+- Go to any www.animecat.net page or www.neko-sama.fr page where the fusevideo.io player is used.<br>
+- The messages blocking video playback due to the use of an ad-blocker will be automatically removed.
+
+
 
 <h3>Supported Pages 🌍</h3>
 The script is specifically designed for:
@@ -24,4 +27,5 @@ The script is specifically designed for:
 The script runs with a delay of 1 second after page load to ensure that the messages have been loaded before attempting to remove them.
 
 <h3>Disclaimer ⚠</h3>
+
 This script has been created by Showzur and is not affiliated with fusevideo.io.
